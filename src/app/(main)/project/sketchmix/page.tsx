@@ -44,7 +44,7 @@ const ProjectsketchmixPage = () => {
                             음악을 저장하고 공유할 수 있는 기능을 제공합니다.
                         </h4>
                         <div id="project-sketchmix-link" className="flex gap-4 mt-8">
-                            <Link href="https://sketchmix.vercel.app/" target="_blank">
+                            <Link href="https://kade704-sketchmix.vercel.app/" target="_blank">
                                 <FaHome className="text-3xl text-neutral-200 mt-4" />
                             </Link>
                             <Link href="https://github.com/kade704/sketchmix" target="_blank">

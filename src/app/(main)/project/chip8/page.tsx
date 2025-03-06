@@ -44,7 +44,7 @@ const ProjectChip8Page = () => {
                             롬을 불러오거나 저장할수 있습니다. 가상 키보드를 통해 에뮬레이터와 상호작용 할 수 있습니다.
                         </h4>
                         <div id="project-chip8-link" className="flex gap-4 mt-8">
-                            <Link href="https://chip8-mu.vercel.app" target="_blank">
+                            <Link href="https://kade704-chip8.vercel.app" target="_blank">
                                 <FaHome className="text-3xl text-neutral-200 mt-4" />
                             </Link>
                             <Link href="https://github.com/kade704/chip8" target="_blank">

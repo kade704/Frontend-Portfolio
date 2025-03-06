@@ -45,9 +45,6 @@ const ProjectsudokuPage = () => {
                             성능을 대폭 향상했습니다.
                         </h4>
                         <div id="project-sudoku-link" className="flex gap-4 mt-8">
-                            <Link href="https://sudoku-iota.vercel.app/" target="_blank">
-                                <FaHome className="text-3xl text-neutral-200 mt-4" />
-                            </Link>
                             <Link href="https://github.com/kade704/sudoku" target="_blank">
                                 <FaGithub className="text-3xl text-neutral-200 mt-4" />
                             </Link>

@@ -58,7 +58,7 @@ const Navbar = () => {
                 </Link>
                 <Link
                     id="navbar-link-notion"
-                    href="https://notion.so/1ab56c97f2a8801eb237dd7e543e34e1"
+                    href="https://absorbing-tsunami-9bd.notion.site/1ab56c97f2a8801eb237dd7e543e34e1?pvs=4"
                     className="cursor-pointer"
                     target="_blank"
                 >

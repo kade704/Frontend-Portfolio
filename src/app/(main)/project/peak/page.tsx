@@ -50,7 +50,7 @@ const ProjectPeakPage = () => {
                             있습니다. 게임 구독기능을 제공하여 원하는 게임 게시물을 빠르게 열람할수 있습니다.
                         </h4>
                         <div id="project-peak-link" className="flex gap-4 mt-8">
-                            <Link href="https://peak-iota.vercel.app/" target="_blank">
+                            <Link href="https://kade704-peak.vercel.app/" target="_blank">
                                 <FaHome className="text-3xl text-neutral-200 mt-4" />
                             </Link>
                             <Link href="https://github.com/kade704/peak" target="_blank">

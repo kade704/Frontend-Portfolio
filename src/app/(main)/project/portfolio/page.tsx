@@ -48,10 +48,10 @@ const ProjectPortfolioPage = () => {
                             시각적 경험을 제공합니다.
                         </h4>
                         <div id="project-portfolio-link" className="flex gap-4 mt-8">
-                            <Link href="https://portfolio-iota.vercel.app/" target="_blank">
+                            <Link href="https://kade704-frontend-portfolio.vercel.app/" target="_blank">
                                 <FaHome className="text-3xl text-neutral-200 mt-4" />
                             </Link>
-                            <Link href="https://github.com/kade704/portfolio" target="_blank">
+                            <Link href="https://github.com/kade704/Frontend-Portfolio" target="_blank">
                                 <FaGithub className="text-3xl text-neutral-200 mt-4" />
                             </Link>
                         </div>
